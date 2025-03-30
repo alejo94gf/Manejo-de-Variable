@@ -24,7 +24,8 @@ Mejorar la legibilidad del código: Al asignar nombres descriptivos a los valore
         //"# Uso de las variables\n",
        // "print(f\"Hola, mi nombre es {nombre}, tengo {edad} años y mido {altura} metros.\")\n"
 
-#AUDIO 
+# AUDIO Eplicacion ejemplo
+
 WhatsApp Audio 2025-03-30 at 4.24.07 PM.mp4
 
 # NOTA 
