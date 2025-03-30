@@ -28,7 +28,7 @@ Mejorar la legibilidad del código: Al asignar nombres descriptivos a los valore
 WhatsApp Audio 2025-03-30 at 4.24.07 PM.mp4
 
 # NOTA 
-# Asignación de variables
+// Asignación de variables
 nombre = "alejandro"    # Variable tipo cadena (str)
 edad = 31            # Variable tipo entero (int)
 altura = 1.80        # Variable tipo flotante (float)
