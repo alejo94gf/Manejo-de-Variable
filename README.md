@@ -16,20 +16,20 @@ Mejorar la legibilidad del código: Al asignar nombres descriptivos a los valore
 
 # EJEMPLO EN CÓDIGO PYTHON
 // "# Asignación de variables\n",
-        "nombre = \"Alejandro\"    # Variable tipo cadena (str)\n",
-        "edad = 31            # Variable tipo entero (int)\n",
-        "altura = 1.80        # Variable tipo flotante (float)\n",
-        "es_estudiante = True # Variable tipo booleano (bool)\n",
-        "\n",
-        "# Uso de las variables\n",
-        "print(f\"Hola, mi nombre es {nombre}, tengo {edad} años y mido {altura} metros.\")\n"
+        //"nombre = \"Alejandro\"    # Variable tipo cadena (str)\n",
+        //"edad = 31            # Variable tipo entero (int)\n",
+        //"altura = 1.80        # Variable tipo flotante (float)\n",
+       // "es_estudiante = True # Variable tipo booleano (bool)\n",
+       // "\n",
+        //"# Uso de las variables\n",
+       // "print(f\"Hola, mi nombre es {nombre}, tengo {edad} años y mido {altura} metros.\")\n"
 
 #AUDIO 
 WhatsApp Audio 2025-03-30 at 4.24.07 PM.mp4
 
 # NOTA 
 // Asignación de variables
-nombre = "alejandro"    # Variable tipo cadena (str)
-edad = 31            # Variable tipo entero (int)
-altura = 1.80        # Variable tipo flotante (float)
-es_estudiante = True # Variable tipo booleano (bool)
+//nombre = "alejandro"    # Variable tipo cadena (str)
+//edad = 31            # Variable tipo entero (int)
+//altura = 1.80        # Variable tipo flotante (float)
+//es_estudiante = True # Variable tipo booleano (bool)
