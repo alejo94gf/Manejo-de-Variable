@@ -12,3 +12,23 @@ Hacer código reutilizable y dinámico: En lugar de escribir valores fijos, pode
 Facilitar cálculos y operaciones: Se pueden realizar operaciones matemáticas o manipulación de datos de forma sencilla.
 
 Mejorar la legibilidad del código: Al asignar nombres descriptivos a los valores, el código es más fácil de entender.
+
+
+# EJEMPLO EN CÓDIGO PYTHON
+// "# Asignación de variables\n",
+        "nombre = \"Alejandro\"    # Variable tipo cadena (str)\n",
+        "edad = 31            # Variable tipo entero (int)\n",
+        "altura = 1.80        # Variable tipo flotante (float)\n",
+        "es_estudiante = True # Variable tipo booleano (bool)\n",
+        "\n",
+        "# Uso de las variables\n",
+        "print(f\"Hola, mi nombre es {nombre}, tengo {edad} años y mido {altura} metros.\")\n"
+
+#AUDIO 
+
+# NOTA 
+# Asignación de variables
+nombre = "alejandro"    # Variable tipo cadena (str)
+edad = 31            # Variable tipo entero (int)
+altura = 1.80        # Variable tipo flotante (float)
+es_estudiante = True # Variable tipo booleano (bool)
