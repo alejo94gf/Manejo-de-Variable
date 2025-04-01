@@ -13,8 +13,17 @@ Facilitar cálculos y operaciones: Se pueden realizar operaciones matemáticas o
 
 Mejorar la legibilidad del código: Al asignar nombres descriptivos a los valores, el código es más fácil de entender.
 
+#  Como implementar e imprimir variables en Python
+Las variables en Python son utilizadas para almacenar datos, ya sean números, cadenas de texto, listas, diccionarios, etc. Una vez que tienes una variable con un valor, puedes imprimirla para ver su contenido o usarla en cálculos y otras operaciones.
 
-# EJEMPLO EN CÓDIGO PYTHON
+1. Crear e implementar variables
+Para crear una variable en Python, simplemente le asignamos un valor utilizando el operador =.
+
+2. Imprimir variables
+Para imprimir una variable en Python, usamos la función print().
+
+
+# EJEMPLO EN CÓDIGO PYTHON Tipos de variables 
 // "# Asignación de variables\n",
         //"nombre = \"Alejandro\"    # Variable tipo cadena (str)\n",
         //"edad = 31            # Variable tipo entero (int)\n",
@@ -23,6 +32,13 @@ Mejorar la legibilidad del código: Al asignar nombres descriptivos a los valore
        // "\n",
         //"# Uso de las variables\n",
        // "print(f\"Hola, mi nombre es {nombre}, tengo {edad} años y mido {altura} metros.\")\n"
+
+
+#   Variables en las Listas en Python
+En Python, las listas son una estructura de datos que almacena múltiples elementos en un solo objeto. Las listas pueden contener diferentes tipos de datos (números, cadenas, otros objetos), y cada uno de esos elementos puede ser accedido y manipulado mediante su índice. Además, puedes asignar variables a elementos dentro de una lista.
+
+#  Variables en Diccionarios en Python
+Los diccionarios en Python son una estructura de datos que almacena pares de clave-valor. Esto significa que en lugar de usar un índice numérico, como en las listas, accedes a los valores a través de claves únicas. Los diccionarios son muy útiles para representar datos relacionados, como registros de una base de datos o información con una relación clave-valor.
 
 # AUDIO Eplicación ejemplo
 
